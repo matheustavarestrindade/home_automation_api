@@ -1,0 +1,1 @@
+mvn install:install-file -Dfile="./target/home-automation-1.0-SNAPSHOT.jar" -DgroupId="com.homeauto" -DartifactId="home-automation" -Dversion="1.0-SNAPSHOT" -Dpackaging="jar" -DgeneratePom=true
